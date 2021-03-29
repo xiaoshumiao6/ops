@@ -1,0 +1,13 @@
+{
+    "plugins":["expandable-chapters"],
+    "title": "小树苗de book",
+    "plugins": [
+        "hide-element"
+    ],
+    
+    "pluginsConfig":{
+        "hide-element": {
+            "elements": [".gitbook-link"]
+        }
+    }
+}
